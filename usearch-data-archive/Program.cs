@@ -18,7 +18,7 @@
 
             if (type == 0)
             {
-                //Download a specific JSON file from an artcile directory
+                //Download a specific JSON file from an article directory
                 string bucketName = "usearch-crawl-data";
                 string fileKey = "articles-2022-06/06-26-2022-00000.json.gz"; //this is an example file to download
 
